@@ -1,3 +1,51 @@
+
+h1{
+  background-color: red;
+  color: gold;
+  border: 10px solid rgb(1, 1, 1);
+  text-align: center;
+  border-radius: 30px;
+  margin-top:0px; 
+}
+
+p{
+  background-color: rgb(255, 242, 0);
+  border-radius: 10px;
+}
+img{
+  width: 10%;
+  margin: 2%;
+}
 .APP{
   text-align: center;
+  width: 100%;
+  height: 188vh;
+  background-color: black;
+}
+p:hover{
+  background-color: chartreuse;
+}
+.Batters{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.logo{
+  width: 20%;
+}
+.Allrounders{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.Bowlers{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+h3{
+  color: white;
+}
+h2{
+  color: gold;
 }
