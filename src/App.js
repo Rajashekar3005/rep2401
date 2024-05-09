@@ -21,6 +21,10 @@ function App() {
 <Routes>
   <Route path="/" element={<Team></Team>}></Route>
   <Route path="/india" element={<India></India>}></Route>
+  <Route path="/mi" element={<Mi></Mi>}></Route>
+  <Route path="/rcb" element={<Rcb></Rcb>}></Route>
+  <Route path="/srh" element={<Srh></Srh>}></Route>
+  <Route path="/csk" element={<Csk></Csk>}></Route>
 </Routes>
 </BrowserRouter>
 
