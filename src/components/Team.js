@@ -19,31 +19,31 @@ function Team() {
       </p>
       <h2>Batters</h2>
       <div className="Batters">
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/2.png" className='iplbatting'></img>
       <h3>VIRAT KOHLI</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/94.png" className='iplbatting'></img>
       <h3>FAF DU PLESIS</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/597.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/597.png" className='iplbatting'></img>
       <h3>RAJAT PATIDAR</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/13.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/13.png" className='iplbatting'></img>
       <h3>DINESH KARTHIK</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1941.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/1941.png" className='iplbatting'></img>
       <h3>WILL JACKS</h3>
       </div>
       <h2>All Rounders</h2>
       <div className="Allrounders">
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/28.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/28.png" className='iplbatting'></img>
       <h3>GLEEN MAXWELL</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/550.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/550.png" className='iplbatting'></img>
       <h3>CAMERON GREEN</h3>
       </div>
       <h2>Bowlers</h2>
       <div className="Bowlers">
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/63.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/63.png" className='iplbatting'></img>
       <h3>MOHAMMED SIRAJ</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/978.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/978.png" className='iplbatting'></img>
       <h3>YASH DAYAL</h3>
-      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png"></img>
+      <img src="https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/IPLHeadshot2024/69.png" className='iplbatting'></img>
       <h3>LOKIE FURGUSON</h3>
       </div>
       <hr></hr>
