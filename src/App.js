@@ -17,7 +17,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Team></Team>}></Route>
           <Route path="/india" element={<India></India>}></Route>
-          
+         
         </Routes>
       </BrowserRouter>
       <Rcb></Rcb>
