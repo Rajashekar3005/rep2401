@@ -8,6 +8,7 @@ import Rcb from "./components/Rcb";
 import Srh from "./components/Srh";
 import Team from "./components/Team";
 import India from "./components/India";
+import Sun from "./components/Sun";
 
 function App() {
   return (
@@ -16,8 +17,14 @@ function App() {
         <Routes>
           <Route path="/" element={<Team></Team>}></Route>
           <Route path="/india" element={<India></India>}></Route>
+          
         </Routes>
       </BrowserRouter>
+      <Rcb></Rcb>
+      <Csk></Csk>
+      <Mi></Mi>
+      <Srh></Srh>
+      <Sun></Sun>
     </div>
   );
 }
