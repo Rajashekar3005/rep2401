@@ -4,20 +4,14 @@ import Team from "./components/Team";
 import India from "./components/India";
 function App() {
   return (
-   <div>
-<BrowserRouter>
-<Routes>
-  <Route path="/" element={<Team></Team>}></Route>
-  <Route path="/india" element={<India></India>}></Route>
-</Routes>
-</BrowserRouter>
-
-   </div>
-
-
-
-
-
+    <div>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Team></Team>}></Route>
+          <Route path="/india" element={<India></India>}></Route>
+        </Routes>
+      </BrowserRouter>
+    </div>
   );
 }
 
